@@ -1,1 +1,1 @@
-# bmi
+Created to calculate the BMI value.
